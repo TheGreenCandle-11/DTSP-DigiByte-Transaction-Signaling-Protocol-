@@ -53,6 +53,13 @@ Draft v1.0
 
 ---
 
+## Tools
+
+Basic encoder:
+
+```bash
+python encoder.py
+
 ## License
 
 MIT
